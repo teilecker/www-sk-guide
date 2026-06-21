@@ -1,2 +1,14 @@
 # www-sk-guide
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
